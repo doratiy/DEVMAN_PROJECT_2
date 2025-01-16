@@ -1,5 +1,4 @@
 from urllib.parse import urlparse
-from Tools.scripts.make_ctype import method
 import requests
 from dotenv import load_dotenv
 from requests.exceptions import HTTPError
